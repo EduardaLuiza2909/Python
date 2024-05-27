@@ -211,7 +211,7 @@ def FuncMaiorNF():
                 print(f"Nome: {inf[0]}")
                 print(f"Código: {inf[1]}")
                 print(f"Faltas: {inf[2]}")
-                print(f"Desconto no salário: {inf[2]:.2f}")
+                print(f"Desconto no salário: {inf[6]:.2f}")
     Menu()
 
 funcionario = {}
